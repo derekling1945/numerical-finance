@@ -1,2 +1,2 @@
-# numerical-finance
-Implementing Numerical Finance from textbooks
+# Numerical Finance
+Putting Financial Mathematics from textbooks into Practice
