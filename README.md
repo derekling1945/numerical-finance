@@ -1,2 +1,2 @@
 # numerical-finance
-Numerical Finance in C++
+Implementing Numerical Finance from textbooks
